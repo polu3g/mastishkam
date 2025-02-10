@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/849b9248-64c1-4c4c-bfaf-89aad1f8f130)
+
 # mastishkam
 AI-Powered Mental Health Diagnosis`
 Mastishkam: AI in Psychological Treatment of Mental Health

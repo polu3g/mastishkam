@@ -12,7 +12,7 @@ print(torch.cuda.is_available())  # Check if CUDA is available
 
 # Load model and tokenizer from Hugging Face
 # model_name = "meta-llama/Llama-2-7b-chat-hf"  # Change model if needed
-# HF_TOKEN = "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"  # Define your Hugging Face token
+# HF_TOKEN = ""  # Define your Hugging Face token
 
 # tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
 # model = AutoModelForCausalLM.from_pretrained(model_name, token=HF_TOKEN, torch_dtype=torch.float16, device_map="auto")
